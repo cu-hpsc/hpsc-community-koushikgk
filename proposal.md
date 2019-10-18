@@ -15,7 +15,7 @@ Pandas is a powerful Python package used for easy data structuring, manipulation
 | Number of contributors in the past year | ~45 |
 | Number of contributors in the lifetime of the project |  1630 |
 | Number of distinct affiliations | >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
+| Where do development discussions take place? | GitHub issues, and pandas-dev mailing list |
 | Typical number of emails/comments per week? |   |
 | Typical number of commits per week? | 48 (on average over last few weeks) |
 | Typical commit size | `git log --shortstat` may be useful |
