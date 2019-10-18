@@ -3,15 +3,15 @@ Please edit this file and push to your repository.
 
 ## Software: *Pandas*
 
-Pandas is a Python package used for easy structuring of data and designed to make working with tabulated and time series data intuitive. Its primarily designed for working with real world data and performing analysis. It is used by data scientists, and people handling large  amount of data.
+Pandas is a powerful Python package used for easy data structuring, manipulation and to make working with tabulated or time series data intuitive. Its primarily designed for working with real world data and performing analysis. It is used by data scientists, and people handling large  amount of data. 
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
+| Repository URL |  https://github.com/pandas-dev/pandas  |
+| Main/documentation website |  https://pandas.pydata.org/pandas-docs/stable/  |
+| Year project was started | 2008  |
 | Number of contributors in the past year | `git shortlog -se --since=2018-10-07` may be useful |
 | Number of contributors in the lifetime of the project |   |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
@@ -29,8 +29,8 @@ Pandas is a Python package used for easy structuring of data and designed to mak
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [ x] I have installed the software
+- [ x] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
