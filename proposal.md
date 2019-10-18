@@ -3,8 +3,7 @@ Please edit this file and push to your repository.
 
 ## Software: *Pandas*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Pandas is a Python package used for easy structuring of data and designed to make working with tabulated and time series data intuitive. Its primarily designed for working with real world data and performing analysis. It is used by data scientists, and people handling large  amount of data.
 
 ### Stats
 
