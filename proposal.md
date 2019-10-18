@@ -22,7 +22,7 @@ Pandas is a powerful Python package used for easy data structuring, manipulation
 | How does the project accept contributions? | pull requests |
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Are any legal/licensing steps required to contribute? | yes (BSD 3) |
 
 ### Install and run
 
