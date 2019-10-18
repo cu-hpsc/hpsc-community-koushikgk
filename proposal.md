@@ -18,7 +18,7 @@ Pandas is a powerful Python package used for easy data structuring, manipulation
 | Where do development discussions take place? | GitHub issues, and pandas-dev mailing list |
 | Typical number of emails/comments per week? |   |
 | Typical number of commits per week? | 48 (on average over last few weeks) |
-| Typical commit size | `git log --shortstat` may be useful |
+| Typical commit size | 2-6 files  modified, with 20 - 30 insertions and deletions on average in the last few days |
 | How does the project accept contributions? | pull requests |
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
