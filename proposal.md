@@ -12,14 +12,14 @@ Pandas is a powerful Python package used for easy data structuring, manipulation
 | Repository URL |  https://github.com/pandas-dev/pandas  |
 | Main/documentation website |  https://pandas.pydata.org/pandas-docs/stable/  |
 | Year project was started | 2008  |
-| Number of contributors in the past year | `git shortlog -se --since=2018-10-07` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
+| Number of contributors in the past year | ~45 |
+| Number of contributors in the lifetime of the project |  1630 |
+| Number of distinct affiliations | >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
+| Typical number of commits per week? | 48 (on average over last few weeks) |
 | Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
+| How does the project accept contributions? | pull requests |
 | Does the project have an automated test suite? | yes/no |
 | Does the project use continuous integration? | yes/no |
 | Are any legal/licensing steps required to contribute? | no or explain below |
